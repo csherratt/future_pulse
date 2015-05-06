@@ -1,0 +1,8 @@
+[package]
+name = "future_pulse"
+version = "0.1.0"
+authors = ["Colin Sherratt <colin.sherratt@gmail.com>"]
+
+[dependencies]
+atom = "*"
+pulse = "*"
